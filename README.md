@@ -39,3 +39,32 @@ The dataset includes the following attributes:
 2. Explore visualizations using interactive filters and slicers.
 3. Analyze insights on coffee preferences, spending, and influencing factors.
 
+## 📥 How to Clone the Repository
+
+To clone this repository, follow these steps:
+
+1. Copy the repository URL from GitHub.
+2. Open a terminal or Git Bash and navigate to your desired directory:
+   ```bash
+   cd ~/Desktop
+   ```
+3. Clone the repository using the following command:
+   ```bash
+   git clone https://github.com/Kushal-Narendracumar7/Coffee_Consumption_Analysis.git
+   ```
+4. Navigate into the cloned repository:
+   ```bash
+   cd Coffee_Consumption_Analysis
+   ```
+
+## 📜 License
+
+This project is **open-source** and does not have a specific license. Feel free to use, modify, and distribute it as needed.
+
+## 👤 Author
+
+**Kushal Narendracumar**  
+For any queries or suggestions, feel free to reach out!
+
+
+
